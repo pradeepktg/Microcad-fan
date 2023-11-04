@@ -1,0 +1,36 @@
+PODS:
+  - AFNetworking (1.1.0)
+  - Alamofire (4.7.2)
+  - mailgun (1.0.3):
+    - AFNetworking (~> 1.1.0)
+  - SkyFloatingLabelTextField (3.4.1)
+  - SVProgressHUD (2.2.5)
+  - SwiftyJSON (4.1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - mailgun
+  - SkyFloatingLabelTextField
+  - SVProgressHUD
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - Alamofire
+    - mailgun
+    - SkyFloatingLabelTextField
+    - SVProgressHUD
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  AFNetworking: e6427e782b25a2289d909960df8ef41358b3277c
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  mailgun: 17290deea4db24050dd03ca59cd7385d508904b3
+  SkyFloatingLabelTextField: 8085f20f57f74a00cfcae58099299faa1a971035
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+
+PODFILE CHECKSUM: 2a1a1d3d8f455499dd27811eb62c90986cd2c5ee
+
+COCOAPODS: 1.5.2
